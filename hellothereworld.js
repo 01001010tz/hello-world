@@ -13,5 +13,5 @@ function sayHB() {
 
 function sayHS() {
   var strangername=prompt('What is your name, stranger?');
-  alert("Hello, " + strangername);
+  alert("Hello, " + strangername + "!");
 }
